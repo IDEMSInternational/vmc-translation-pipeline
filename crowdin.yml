@@ -1,5 +1,5 @@
 files:
-  - source: /**/**/*.*
+  - source: /**/*.*
     ignore:
       - README.md
-    translation: '''%original_path%/%three_letters_code%/%original_file_name%'''
+    translation: '''/**/%three_letters_code%/%original_file_name%'''
