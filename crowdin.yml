@@ -1,9 +1,9 @@
 files:
   - source: /facilitation_guides/eng/*.docx
-    translation: /facilitation_guides/%three_letters_code%/%original_file_name%
+    translation: /facilitation_guides/translation/%three_letters_code%/%original_file_name%
   - source: /facilitation_guides/fra/*.docx
-    translation: /facilitation_guides/%three_letters_code%/%original_file_name%
+    translation: /facilitation_guides/translation/%three_letters_code%/%original_file_name%
   - source: /video_subtitles/eng/*.docx
-    translation: /video_subtitles/%three_letters_code%/%original_file_name%
+    translation: /video_subtitles/translation/%three_letters_code%/%original_file_name%
   - source: /video_subtitles/fra/*.docx
-    translation: /video_subtitles/%three_letters_code%/%original_file_name%
+    translation: /video_subtitles/translation/%three_letters_code%/%original_file_name%
