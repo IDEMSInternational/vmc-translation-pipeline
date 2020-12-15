@@ -7,5 +7,5 @@ files:
     translation: /video_subtitles/translation/%three_letters_code%/%original_file_name%
   - source: /video_subtitles/fra/*.docx
     translation: /video_subtitles/translation/%three_letters_code%/%original_file_name%
-  - source: /test/*.json
-    translation: /test/%three_letters_code%/%original_file_name%
+  - source: /card_deck/eng/*.json
+    translation: /card_deck/translations/%three_letters_code%/%original_file_name%
