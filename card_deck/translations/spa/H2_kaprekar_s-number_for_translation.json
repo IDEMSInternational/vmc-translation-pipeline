@@ -1,8 +1,8 @@
 {
   "Kaprekar's Number": "Número de Kaprekar",
   "Choose a four digit number where the digits are not all the same.": "Elige un número de cuatro dígitos donde cada uno de ellos sea distinto a los demás.",
-  "Rearrange the digits to get the largest and smallest possible numbers these digits can make.": "Rearrange the digits to get the largest and smallest possible numbers these digits can make.",
-  "Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.": "Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.",
+  "Rearrange the digits to get the largest and smallest possible numbers these digits can make.": "Reacomoda los dígitos para obtener el mayor y el menor número que puedas formar con esos dígitos.",
+  "Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.": "Réstale el menor número al mayor, para obtener un nuevo número. Repite esta operación para cada nuevo número. Siempre terminarás en el mismo número.",
   "For example if you start with 4252, you should do the calculation 5422 - 2245 = 3177. Then do 7731 - 1377 and keep going.": "For example if you start with 4252, you should do the calculation 5422 - 2245 = 3177. Then do 7731 - 1377 and keep going.",
   "You always end up with the number 6174. This is known as Kaprekar's number. For example 5432 – 2345 = 3087": "You always end up with the number 6174. This is known as Kaprekar's number. For example 5432 – 2345 = 3087",
   "8730 – 0378 = 8352": "8730 – 0378 = 8352",
