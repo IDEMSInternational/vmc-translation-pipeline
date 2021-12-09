@@ -1,6 +1,6 @@
 {
-  "Abundant Numbers": "Abundant Numbers",
-  "The integer 12 is the first <strong>abundant number</strong>. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12. ": "The integer 12 is the first <strong>abundant number</strong>. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12. ",
+  "Abundant Numbers": "Números Abundantes",
+  "The integer 12 is the first <strong>abundant number</strong>. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12. ": "El número entero 12 es el primer <strong>número abundante</strong>. La suma de sus divisores propios (factores que no incluyen al mismo número 12)  1, 2, 3, 4 y 6 es 16, que es mayor a 12. ",
   "You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the abundant numbers.": "You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the abundant numbers.",
   "The next abundant number is 20, because the proper divisors of 20 are 1,2,4,5, and 10 which add up to 22. Can you explain why prime numbers can never be abundant?   ": "The next abundant number is 20, because the proper divisors of 20 are 1,2,4,5, and 10 which add up to 22. Can you explain why prime numbers can never be abundant?   ",
   "Numbers whose proper divisors add up to less than the number are called deficient numbers. ": "Numbers whose proper divisors add up to less than the number are called deficient numbers. ",
