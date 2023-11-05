@@ -1,5 +1,5 @@
 {
-  "Newspaper": "Newspaper",
+  "Newspaper": "Journal",
   "Below is a single sheet from a newspaper. Given that each sheet has four pages, how many sheets are there altogether?": "Ci-dessous, une seule feuille d'un journal. Étant donné que chaque feuille comporte quatre pages, combien y a-t-il de feuilles en tout ?",
   "Can you work backwards from 8 to work out how many sheets would be underneath this one? You might want to use bits of paper and number them to help.": "Pouvez-vous travailler à rebours à partir de 8 pour déterminer combien de feuilles il y aurait sous celle-ci ? Vous pouvez utiliser des morceaux de papier et les numéroter pour vous aider.",
   "On the back of the number 8 there must be the number 7. The sheet below must have the numbers 6 and 5. Keeping going there will be 4 and 3 and finally 2 and 1. So there are three sheets underneath. Adding on 7 to the 61 gives the last page as 68. Given each sheet has four pages, there are 68 ∕ 4 = 17 sheets.": "Au verso du numéro 8 il doit y avoir le numéro 7. La feuille en dessous doit avoir les chiffres 6 et 5. En continuant il y aura 4 et 3 et enfin 2 et 1. Il y a donc trois feuilles en dessous. Ajouter 7 au 61 donne la dernière page comme 68. Étant donné que chaque feuille a quatre pages, il y a 68 ∕ 4 = 17 feuilles.",
