@@ -1,7 +1,7 @@
 {
-  "Sword of Josephus": "Sword of Josephus",
+  "Sword of Josephus": "L’Épée de Josephus",
   "Pegs numbered 1 to 52 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.": "Les pions numérotés de 1 à 52 sont placés en cercle. En commençant par le numéro 2, les pions alternés sont renversés jusqu'à ce qu'il n'en reste plus qu'un.",
-  "What is the number of the last peg to be knocked down?": "What is the number of the last peg to be knocked down?",
+  "What is the number of the last peg to be knocked down?": "Quel est le numéro du dernier pion à abattre ?",
   "What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?": "Que se passe-t-il si vous n'aviez que 2 pions ? Qu'en est-il de 3, 4, 5, 6, 7 ou 8 pions ? Pouvez-vous repérer le modèle après avoir examiné ces cas ?",
   "Starting with only 2 pegs, we know that the last peg to be knocked down would be number 1. We can work out which would be the last peg if we increase the number of pegs. To start, we record our results and look for a pattern.": "En commençant avec seulement 2 pions, nous savons que le dernier pion à renverser serait le numéro 1. Nous pouvons déterminer quel serait le dernier pion si nous augmentons le nombre de pions. Pour commencer, nous enregistrons nos résultats et recherchons un modèle.",
   "2 - 1": "2 - 1",
