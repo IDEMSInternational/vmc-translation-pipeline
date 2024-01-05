@@ -5,7 +5,7 @@
   "(1.) Starting with the first standing peg on the left, alternate pegs are knocked down, until the end of the row is reached.": "(1.) En commençant par le premier piquet debout à gauche, les autres piquets sont renversés jusqu'à ce que la fin de la rangée soit atteinte.",
   "(2.) Each time the end of the row is reached, repeat the previous rule.": "(2.) Chaque fois que la fin de la ligne est atteinte, répétez la règle précédente.",
   "What is the number of the last peg to be knocked down?": "Quel est le numéro du dernier pion à abattre ?",
-  "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?": "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?",
+  "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?": "Que se passe-t-il si vous n'aviez que 5 piquets ? Et 10 ou 20 ? Pouvez-vous repérer le motif ?",
   "Start: 1 2 3 4 5 6 7 8 9 ...": "Départ: 1 2 3 4 5 6 7 8 9 ...",
   "First round:  ✕ 2 ✕ 4 ✕ 6 ✕ 8 ✕  ... only even numbers left": "Premier tour: ✕ 2 ✕ 4 ✕ 6 ✕ 8 ✕ ... seuls les nombres impairs restent",
   "Second round: ✕ 4 ✕ 8 ✕ 12 ...  only multiples of 4 left": "Deuxième tour:  ✕ 4 ✕ 8 ✕ 12  ... seuls les multiples de 4 à restent",
